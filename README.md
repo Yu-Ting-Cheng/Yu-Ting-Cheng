@@ -1,6 +1,6 @@
 ## About Me
 
-- 👋 Hi, I'm @Yu-Ting-Cheng
+- 👋🏻Light Skin Tone  Hi, I'm @Yu-Ting-Cheng
 - 👀 I’m interested in Artificial Intelligence🧠 and Recommender Systems💻
 - 🏫 Currently studying at National Taiwan Normal University
 - 📫 You can reach me at kirstin.college@gmail.com

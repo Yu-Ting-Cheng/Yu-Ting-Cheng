@@ -3,7 +3,7 @@
 - 👋🏻 Hi, I'm @Yu-Ting-Cheng
 - 👀 I’m interested in Artificial Intelligence🧠 and Recommender Systems💻
 - 🏫 Currently studying at National Taiwan Normal University
-- 📫 You can reach me at kirstin.college@gmail.com
+- 📫 You can reach me at kirstin.yt.cheng@gmail.com
 - 🔮 By the way, I love traveling✈️ and listening to music🎵~
 
 ## Skills

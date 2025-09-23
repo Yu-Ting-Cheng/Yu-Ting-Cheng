@@ -7,4 +7,4 @@
 - 🔮 By the way, I love traveling✈️ and listening to music🎵~
 
 ## Skills
-- Programming Languages: C, C++, Python, Java
+- Programming Languages: C/C++、Python、JAVA、JavaScript、SQL
